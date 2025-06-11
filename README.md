@@ -54,3 +54,19 @@ E-Commerce-Sales-Analysis/
 - Ranked top-selling products and calculated total revenue  
 - **Visuals:** Top 10 product bar chart, sales total card, full product table  
 - **Insights:** Most revenue came from top 10 SKUs
+
+## 🖼 Dashboard Snapshots
+
+Preview of the dashboards built in Power BI Web:
+
+![RFM Dashboard](images/rfm_dashboard.png)
+![Forecast Chart](images/forecast_chart.png)
+![Top 10 Products](images/top10_products.png)
+
+## 👨‍💻 Author
+
+**Laxmi Lahari Naidu**  
+M.S. in Computer Science, Binghamton University  
+📫 [GitHub](https://github.com/laharibugata)  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+
