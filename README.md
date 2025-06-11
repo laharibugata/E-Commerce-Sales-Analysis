@@ -31,7 +31,7 @@ E-Commerce-Sales-Analysis/
 ├── images/
 │   ├── rfm_dashboard.png
 │   ├── forecast_chart.png
-│   └── top10_products.png
+│   └── top10_products.png ```
 
 ## 🔍 Dashboard Summaries
 
