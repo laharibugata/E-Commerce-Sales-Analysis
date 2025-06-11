@@ -62,12 +62,25 @@ Preview of the dashboards built in Power BI Web:
 
 ![RFM Dashboard](images/rfm_dashboard.png)
 ![Forecast Chart](images/forecast_chart.png)
-![Top 10 Products](images/top10_products.png)
+![Top 10 Products](images/products_performance.png)
+
+## 🧪 Python Code
+
+All preprocessing, clustering, and forecasting were done using Python:
+
+| Notebook File             | Purpose                                  |
+|---------------------------|------------------------------------------|
+| `ecommerce_analysis.ipynb`| Full data prep and analysis workflow     |
+
+Libraries used:
+```python
+pandas, sklearn, prophet, plotly
+```
 
 ## 👨‍💻 Author
 
 **Laxmi Lahari Naidu**  
 M.S. in Computer Science, Binghamton University  
 📫 [GitHub](https://github.com/laharibugata)  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+🔗 [LinkedIn](https://www.linkedin.com/in/laharibugata/)
 
