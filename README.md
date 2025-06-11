@@ -33,3 +33,24 @@ E-Commerce-Sales-Analysis/
 │   ├── forecast_chart.png
 │   └── top10_products.png
 
+## 🔍 Dashboard Summaries
+
+### 🧠 1. Customer Segmentation Dashboard
+- Engineered RFM (Recency, Frequency, Monetary) features  
+- Applied K-Means clustering to group customer behavior  
+- Added churn risk flag (`Recency > 180 → High`)  
+- **Visuals:** CLTV card, churn pie chart, scatter plot, bar charts, data table  
+
+---
+
+### 📈 2. Sales Forecasting Dashboard
+- Aggregated monthly sales data  
+- Applied Prophet model to forecast 6-month trends  
+- **Visuals:** Forecast line chart, KPI cards (peak/avg), slicer, forecast table  
+
+---
+
+### 💰 3. Product Performance Dashboard
+- Ranked top-selling products and calculated total revenue  
+- **Visuals:** Top 10 product bar chart, sales total card, full product table  
+- **Insights:** Most revenue came from top 10 SKUs
